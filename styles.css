@@ -1,0 +1,16 @@
+
+
+body {
+    background: linear-gradient(#222c88, #811aa0);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .card{
+      color: #333;
+  }
+
+  .btn {
+    background-color: #811aa0;
+    border: none;
+}
